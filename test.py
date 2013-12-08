@@ -17,7 +17,11 @@ if __name__ == '__main__':
     for pos in range(MIN_ANGLE, MAX_ANGLE, INCREMENT):
         print pos
         move(pos, 'x')
-        move(pos, 'y')
         sleep(0.1)
-    move(0, 'x')
-    move(0, 'y')
+        for y_pos in range(MIN_ANGLE, MAX_ANGLE, INCREMENT):
+            move(y_pos, 'y')
+            sleep(0.1)
+    move(40, 'x')
+    move(40, 'y')
+
+    import pdb; pdb.set_trace();
