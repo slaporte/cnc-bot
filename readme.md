@@ -1,4 +1,4 @@
-# minii cnc-bot
+# mini cnc-bot via python
 
 A small python powered drawing robot, based on [instructions](http://plotterbot.com/2013/11/how-to-build-a-tiny-cnc-drawing-robot/) and parts by Jay from MakerBlock. See [photographs of the bot in action](http://www.flickr.com/photos/slaporte/11260957316/in/set-72157638456280725/).
 
