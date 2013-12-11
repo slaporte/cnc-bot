@@ -16,4 +16,4 @@ Built using:
 
 The python interface is based loosely on Team Principia's [Arduino-Python servo control](http://teamprincipia.wordpress.com/2008/04/08/arduino-python-4-axis-servo-control/).
 
-All my original code is freely licnesed under the MIT License.
+All my original code is freely licensed under the MIT License.
